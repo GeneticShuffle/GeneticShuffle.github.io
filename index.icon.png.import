@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bk5y1bc51wtp7"
-path="res://.godot/imported/index.icon.png-2803b8adb965a727523c1273eefd837f.ctex"
+uid="uid://3n1n05tk3jrn"
+path="res://.godot/imported/index.icon.png-6e1a8d22ebd97b68fa94e0777ed24c61.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://builds/web-deploy/GeneticShuffle.github.io/index.icon.png"
-dest_files=["res://.godot/imported/index.icon.png-2803b8adb965a727523c1273eefd837f.ctex"]
+source_file="res://builds/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-6e1a8d22ebd97b68fa94e0777ed24c61.ctex"]
 
 [params]
 
